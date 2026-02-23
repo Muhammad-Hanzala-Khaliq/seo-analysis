@@ -1,0 +1,149 @@
+📌 If I Started SEO in 2026 – Structured Notes 
+
+(Based on Gulam Ali SEO Strategy) 
+
+ 
+
+1️⃣ Keyword Research Strategy 
+
+✅ Focus on Competition, NOT Search Volume 
+
+High search volume ≠ Easy ranking 
+
+Pehle low competition keywords target karo 
+
+Especially new website ke liye low KD (Keyword Difficulty) best hai 
+
+✅ Proper Keyword Mapping 
+
+Har page ka apna specific topic hona chahiye 
+
+Ek page = Ek primary topic 
+
+Multiple pages ko same keyword par target na karo 
+
+Topic clusters banao 
+
+👉 Goal: Rank on Topics, not just individual keywords 
+
+ 
+
+2️⃣ What is Semantic Content? 
+
+🔎 Definition: 
+
+Semantic content ka matlab hai: 
+
+Topic par content likhna, keyword stuffing nahi karna. 
+
+❌ Galat Approach: 
+
+Keyword baar baar repeat karna 
+
+Artificial keyword density maintain karna 
+
+✅ Sahi Approach: 
+
+Topic ko deeply cover karo 
+
+Related terms aur synonyms naturally use karo 
+
+User intent satisfy karo 
+
+ 
+
+3️⃣ Content Writing Rules (High Quality Content) 
+
+Content hona chahiye: 
+
+✔ Semantically optimized 
+✔ Skimmable (short paragraphs, headings, bullets) 
+✔ Competitors se better 
+✔ Easy to read 
+✔ Native language mein (target audience ki language) 
+
+Skimmable Content kaise banayein? 
+
+Short paragraphs (2-3 lines max) 
+
+Bullet points 
+
+Clear H2 & H3 headings 
+
+Bold important words 
+
+ 
+
+4️⃣ On-Page SEO Checklist 
+
+📌 Basic Optimization 
+
+Keyword in Title 
+
+Keyword in H2 
+
+Keyword in Image Alt Text 
+
+At least 1 External Link 
+
+At least 1 Internal Link 
+
+🔥 MOST IMPORTANT: 
+
+Internal Linking Structure 
+
+Internal links: 
+
+Authority pass karte hain 
+
+Pages ko connect karte hain 
+
+Crawlability improve karte hain 
+
+ 
+
+5️⃣ Technical SEO Checklist 
+
+Important Technical Factors: 
+
+Redirect Management (301 redirects) 
+
+Fixing 404 URLs 
+
+Optimizing Robots.txt 
+
+Avoiding / Fixing Keyword Cannibalization 
+
+Avoiding Content Duplication 
+
+ 
+
+6️⃣ Backlink Strategy for New Website 
+
+📅 Month 1–2 (Foundation Phase) 
+
+Social Media Profiles 
+
+Local Citations 
+
+Web 2.0 Links 
+
+Forum Links 
+
+Profile Links 
+
+👉 Goal: Website trust build karna 
+
+ 
+
+📅 Month 3+ (Authority Phase) 
+
+Guest Posts 
+
+Niche Edits 
+
+Backlink Exchange 
+
+Podcast Backlinks 
+
+👉 Goal: Domain authority grow karna 
