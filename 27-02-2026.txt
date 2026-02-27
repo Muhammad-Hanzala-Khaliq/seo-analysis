@@ -1,0 +1,148 @@
+🔥 1️⃣The Only Video You Need to Watch Gulam ali seo
+ Deep Overview
+
+SEO competitor analysis ka matlab hota hai:
+
+📌 “Un competitors ke keywords aur strategy ko samajhna jinke pages already rank kar rahe hain”
+📌 “Aur un topics ko identify karna jahan aap unse better content bana sakte ho”
+
+Competitor analysis se aapko 3 cheezen milti hain:
+
+Which keywords they rank for
+
+Why they rank (content structure, backlinks, user intent)
+
+Where you can outrank them
+
+🏆 Best Competitor Types to Analyze (5)
+
+Aapko in 5 types se keywords aur strategy analyse karni chahiye:
+
+⭐ Type 1: Top current ranking pages
+
+Ye wo pages hain jo already Google me top par hain for similar topic.
+📌 Aap unke keywords, h1/h2 structure, length dekhoge.
+
+⭐ Type 2: Low authority blogs (DR ~ 10–20)
+
+🔥 Perfect opportunity!
+Jo pages low authority (DR 10–20) ke bawajood rank kar rahe hain — unka keyword list easy targets diye hota hai
+
+👉 Agar wo low DR site already rank kar rahi hai →
+Uska keyword + strategy uthao + better content banao.
+
+⭐ Type 3: Informational blog posts in your niche
+
+Ye detailed SEO guides hoti hain jinke keywords high relevance rakhte hain
+👉 In se aap long-tail ideas aur semantic keywords nikal sakte ho
+
+⭐ Type 4: Tools & topic clusters
+
+Tools jaise Semrush, Ahrefs or SpyFu competitor keywords batate hain jo profitable ho sakte hain
+
+⭐ Type 5: Content gap competitors
+
+Ye wo sites hoti hain jinke pass keywords hain jo aapke site me nahi hain — yeh opportunities hain jo aap "gap analysis" se identify karte ho
+
+🔍 STEP BY STEP Competitor Keyword Analysis (Pro)
+✅ Step 1 — Find Competitors
+
+Search your target keyword in Google → jo top 10 sites ranking me dikhte hain woh aapke primary competitors hain.
+
+✅ Step 2 — Extract Their Keywords
+
+Use tools like (paid/free):
+
+Semrush
+
+Ahrefs
+
+SpyFu
+
+KWFinder
+
+Google Keyword Planner
+
+Iss se aap unke ranking keywords, search volume, difficulty sab pata laga sakte ho.
+
+✅ Step 3 — Analyze Keyword Difficulty
+
+Keyword difficulty (KD) check karo —
+🔹 0–20: Easy
+🔹 20–50: Medium
+🔹 50+: Hard
+
+👉 Aapko woh keywords chun ne hain jinke KD 10–20 ho (easy to rank)
+
+✅ Step 4 — Do Keyword Gap Analysis
+
+Yeh check karo:
+
+✔ Which keywords competitors rank for
+✔ Which keywords you don’t
+This reveals opportunities — uncaptured traffic
+
+✅ Step 5 — Look at Their Content Structure
+
+Competitor content me note karo:
+
+✔ Heading structure
+✔ Word count
+✔ Does it use FAQ?
+✔ Do they have tables / lists?
+✔ Depth of explanation
+
+Phir aap create karo better, deeper, longer content — Google prefers that
+
+📌 Short Competitor Checklist
+
+Top 10 ranking sites list
+
+Each site’s top keywords
+
+Difficulty, volume, intent
+
+Content size & format
+
+Backlinks they have
+
+Topics they missed
+
+Places they used rich features (FAQs/snippets)
+
+📌 2️⃣ Which Competitor Keywords to Pick?
+
+Competitor keyword ko choose karte waqt dekho:
+
+📌 Priority Factors
+
+✔ Low difficulty (10–20)
+✔ High relevance to your topic
+✔ High search volume
+✔ Covered by competitor but poorly
+✔ Opportunity to add better content
+
+🎯 Example Keyword Prioritization Logic
+Priority	Reason
+🌟 Easy keywords (KD ≤20)	Easy to rank
+🟢 Long tail	Better user intent
+🔵 High value topic	Drives lots of traffic
+🟡 Competitor poorly covered	Opportunity gap
+🔴 Hard competitors (big brands)	Usually skip early
+📌 How To “Copy” Strategy
+
+Nahi — aap copy nahi karte, aap inspire hoke better build karte ho:
+
+Take their ranking keywords
+
+See search intent (information vs commercial)
+
+Build content that
+
+is longer
+
+has better structure
+
+answers user intent deeper
+
+adds more examples, visuals, FAQs
